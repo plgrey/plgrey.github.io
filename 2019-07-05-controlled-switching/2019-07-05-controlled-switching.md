@@ -22,7 +22,7 @@ This one is a personal example that we've used a lot in times of stress.
 
 Whoever is leaving front: Slowly breathe in, and back out. You can use an animation like this one to help:
 
-https://plgrey.github.io/2019-07-05-controlled-switching/breathing.gif
+[https://plgrey.github.io/2019-07-05-controlled-switching/breathing.gif](https://plgrey.github.io/2019-07-05-controlled-switching/breathing.gif)
 
 Breathe in and out four times. Then stop.
 
