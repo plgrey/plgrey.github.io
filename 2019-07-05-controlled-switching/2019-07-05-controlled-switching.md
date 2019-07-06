@@ -16,7 +16,7 @@ The person leaving front doesn't try to do things. They also don't try to stop d
 
 However this is really abstract and can be hard to understand, so here's some examples:
 
-### Breathing Exercise
+## Breathing Exercise
 
 This one is a personal example that we've used a lot in times of stress.
 
