@@ -8,6 +8,8 @@ We the authors are unsure of how many systems are able to control switching vs h
 
 Learning these things won't stop unintentional switches, but if unintentional switches cause problems for you, they can help you undo an unwanted switch.
 
+## How To Intentionally Switch
+
 Here's the core of most switching methods:
 
 The person coming to front focuses on paying attention to the body and the world around them. They then choose to do something in the real world.
